@@ -1,6 +1,6 @@
 **Chapter 2: User-Facing Backend**
 
-#Ticket: Durable Writes
+# Ticket: Durable Writes
 **Problem:**
 
 **Task**
