@@ -14,3 +14,7 @@ Attempts Remaining:**Correct Answer**
 Choose the best answer:
 
 - The server xyz-1234.srv.net is a member of the Replica Set the user is trying to connect to
+- **The password used to authenticate is bardot**
+- There are 1234 nodes in the xyz Replica Set
+- The user bardot is trying to authenticate on database admin
+
