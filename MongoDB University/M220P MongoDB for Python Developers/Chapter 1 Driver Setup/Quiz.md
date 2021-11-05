@@ -1,4 +1,4 @@
-**Chapter 1: Driver Setup
+**Chapter 1: Driver Setup**
 
 **MFlix Application Architecture**
 **Problem:**
