@@ -20,4 +20,4 @@ Choose the best answer:
 - db.people_heights.find().sort("height", -1).limit(5).skip(3)
 - db.people_heights.find().sort("height", -1).skip(5).limit(3)
 - db.people_heights.find().sort("height", -1).skip(3).limit(5)
-- **db.people_heights.find().sort("height", -1).skip(3).limit(2)**
+- **db.people_heights.find().sort("height", -1).skip(3).limit(2)** 
