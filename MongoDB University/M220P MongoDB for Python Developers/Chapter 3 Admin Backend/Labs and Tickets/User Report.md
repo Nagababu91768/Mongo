@@ -3,8 +3,8 @@
 # Ticket: User Report
 **Problem:**
 
-**User Story
-**
+**User Story**
+
 "As an administrator, I want to be able to view the top 20 users by their number of comments."
 
 **Task**
