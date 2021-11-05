@@ -1,6 +1,6 @@
 **Chapter 0: Introduction and Setup**
 
-**MongoDB URI**
+# MongoDB URI
 **Problem:**
 
 Given the following MongoDB URI:
