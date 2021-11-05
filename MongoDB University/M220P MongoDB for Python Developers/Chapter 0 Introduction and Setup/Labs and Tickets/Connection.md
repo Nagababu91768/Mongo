@@ -63,6 +63,6 @@ Attempts Remaining:Correct Answer
 
 Enter answer here:
 
-      **5a9026003a466d5ac6497a9d**
+       5a9026003a466d5ac6497a9d
 
            
