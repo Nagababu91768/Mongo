@@ -6,7 +6,7 @@ During this course, which of the following files in mflix will you have to edit?
 Attempts Remaining:Correct Answer
 
 Check all answers that apply:
-- <font color="green">**db.py**</green>
+- <font color="green">**db.py** </font>
 - factory.py
 - api/user.py
 - api/movies.py
