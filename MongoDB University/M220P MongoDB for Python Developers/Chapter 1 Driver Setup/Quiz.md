@@ -1,6 +1,6 @@
 **Chapter 1: Driver Setup**
 
-# MFlix Application Architecture**
+# MFlix Application Architecture
 **Problem:**
 During this course, which of the following files in mflix will you have to edit?
 Attempts Remaining:Correct Answer
